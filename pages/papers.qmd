@@ -1,0 +1,26 @@
+---
+title: "Publications"
+---
+
+- **A Brief Comparative Analysis of Geostatistics and Deep Learning for Seismic Data Interpolation** 
+  - *Authors:* Julien Lalanne, Lionnel Boillot and Leon Barens
+  - *Journal/Conference:* 86th EAGE Annual Conference & Exhibition
+  - 2025
+  - *Link:* [EarthDoc](https://www.earthdoc.org/content/papers/10.3997/2214-4609.2025101346)
+  
+- **Semantic frame aggregation-based Transformer for live video comment generation**
+  - *Authors:* Anam Fatima, Yi Yu, Janak Kapuriya, Julien Lalanne and Jainendra Shukla
+  - *Journal/Conference:* IEEE Transactions on Multimedia
+  - 2025
+  <!-- - *Link:* [PDF](#) -->
+
+- **Machine Learning Method Benchmark for Shear Velocity Estimation from Geotechnical Logs**
+  - *Authors:* Julien Lalanne, Lionnel Boillot and Leon Barens
+  - *Journal/Conference:* Fourth EAGE Digitalization Conference & Exhibition
+  - 2024
+  - *Link:* [EarthDoc](https://www.earthdoc.org/content/papers/10.3997/2214-4609.202439089)
+
+- **LiveChat: Video Comment Generation from Audio-Visual Multimodal Contexts**
+  - *Authors:* Julien Lalanne, Raphael Bournet and Yi Yu
+  - *Journal/Conference:* arXiv preprint
+  - 2023

@@ -1,0 +1,10 @@
+---
+title: "Teaching"
+---
+
+# Teaching
+
+List your teaching activities, courses, or mentoring here. Example:
+
+- Course: Machine Learning (University of X, 2024)
+- Workshop: Data Science Bootcamp (2023)
