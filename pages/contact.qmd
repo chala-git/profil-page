@@ -2,7 +2,7 @@
 title: "Contact"
 ---
 
-- **Email:** julien.lalanne@enpc.fr
-- **Email:** julien.lalanne@totalenergies.com
+- **Email:** [julien.lalanne@enpc.fr](mailto:julien.lalanne@enpc.fr)
+- **Email:** [julien.lalanne@totalenergies.fr](mailto:julien.lalanne@totalenergies.com)
 - **LinkedIn:** [link](https://www.linkedin.com/in/julien-lalanne/)
 <!-- - **GitHub:** [link](https://github.com/chala-git/) -->

@@ -1,59 +1,24 @@
 [
   {
+    "objectID": "pages/papers.html",
+    "href": "pages/papers.html",
+    "title": "Publications",
+    "section": "",
+    "text": "A Brief Comparative Analysis of Geostatistics and Deep Learning for Seismic Data Interpolation\n\nAuthors: Julien Lalanne, Lionnel Boillot and Leon Barens\nJournal/Conference: 86th EAGE Annual Conference & Exhibition\n2025\nLink: EarthDoc\n\nSemantic frame aggregation-based Transformer for live video comment generation\n\nAuthors: Anam Fatima, Yi Yu, Janak Kapuriya, Julien Lalanne and Jainendra Shukla\nJournal/Conference: IEEE Transactions on Multimedia\n2025 \n\nMachine Learning Method Benchmark for Shear Velocity Estimation from Geotechnical Logs\n\nAuthors: Julien Lalanne, Lionnel Boillot and Leon Barens\nJournal/Conference: Fourth EAGE Digitalization Conference & Exhibition\n2024\nLink: EarthDoc\n\nLiveChat: Video Comment Generation from Audio-Visual Multimodal Contexts\n\nAuthors: Julien Lalanne, Raphael Bournet and Yi Yu\nJournal/Conference: arXiv preprint\n2023"
+  },
+  {
+    "objectID": "pages/teaching.html",
+    "href": "pages/teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Teaching\nList your teaching activities, courses, or mentoring here. Example:\n\nCourse: Machine Learning (University of X, 2024)\nWorkshop: Data Science Bootcamp (2023)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Julien Lalanne",
     "section": "",
     "text": "Linkedin\n  \n  \n    \n     Google Scholar\n  \n  \n      Email\n  \n  \n    \n     Github"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Julien Lalanne",
-    "section": "",
-    "text": "title: “About”\nAbout this site # About Me"
-  },
-  {
-    "objectID": "about.html#biography",
-    "href": "about.html#biography",
-    "title": "Julien Lalanne",
-    "section": "Biography",
-    "text": "Biography\nJulien Lalanne received his PhD in Computer Science from University of X. He has published over 20 papers in top conferences and journals. His research interests include deep learning, data science, and AI applications in healthcare. Add your detailed biography here."
-  },
-  {
-    "objectID": "about.html#research-interests",
-    "href": "about.html#research-interests",
-    "title": "Julien Lalanne",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nDeep Learning\nData Science\nAI for Healthcare\nComputer Vision\nScientific Communication"
-  },
-  {
-    "objectID": "about.html#profile-picture",
-    "href": "about.html#profile-picture",
-    "title": "Julien Lalanne",
-    "section": "Profile Picture",
-    "text": "Profile Picture\n\n\n\nProfile Picture"
-  },
-  {
-    "objectID": "about.html#contact-information",
-    "href": "about.html#contact-information",
-    "title": "Julien Lalanne",
-    "section": "Contact Information",
-    "text": "Contact Information\n\nEmail: your.email@university.edu\nOffice: Room 123, University of X\nTwitter: @yourhandle\nLinkedIn: Your Profile"
-  },
-  {
-    "objectID": "about.html#social-links",
-    "href": "about.html#social-links",
-    "title": "Julien Lalanne",
-    "section": "Social Links",
-    "text": "Social Links\n\nGoogle Scholar\nORCID\nGitHub"
-  },
-  {
-    "objectID": "index.html#welcome-to-my-research-profile",
-    "href": "index.html#welcome-to-my-research-profile",
-    "title": "Research Profile",
-    "section": "Welcome to My Research Profile",
-    "text": "Welcome to My Research Profile"
   },
   {
     "objectID": "index.html#bio",
@@ -70,108 +35,10 @@
     "text": "Research Interests\nEt tumulum cernes dixerat gaudia. Hoc deos praescia ureris genitor erat dum dum manibus inerti. Recenti si Romana, abit mandata: imitamine lintea iure. Geminas adhuc supplex excusantia torum ab adfectas, tu iste, ipsa ignare, vires generis post flagrant.\n\nQuod est bitumine dicta dum Psophidaque moenia\nDecrescentibus corpora ferrumque rostro thalamoque amnis\nMaiaque profuso\nRedit et tamen manus cui Tenedon sonantia\nVolat usque ducibusque lapidem Hyries et pereat\nIpsa fronte"
   },
   {
-    "objectID": "index.html#quick-links",
-    "href": "index.html#quick-links",
-    "title": "Julien Lalanne",
-    "section": "Quick Links",
-    "text": "Quick Links\n\nPublications\nTeaching\nContact"
-  },
-  {
-    "objectID": "papers.html",
-    "href": "papers.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Publications\nList your papers here. Example:\n\nTitle: Deep Learning for XYZ\n\nAuthors: J. Lalanne, A. Smith\nJournal/Conference: NeurIPS 2024\nLink: PDF\nAbstract: Short summary of the paper.\n\nTitle: Another Research Paper\n\nAuthors: J. Lalanne\nJournal/Conference: ICML 2023\nLink: PDF\nAbstract: Short summary of the paper."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Teaching\nList your teaching activities, courses, or mentoring here. Example:\n\nCourse: Machine Learning (University of X, 2024)\nWorkshop: Data Science Bootcamp (2023)"
-  },
-  {
-    "objectID": "awards.html",
-    "href": "awards.html",
-    "title": "Awards & Honors",
-    "section": "",
-    "text": "Awards & Honors\nList your awards, grants, and recognitions here. Example:\n\nBest Paper Award, NeurIPS 2024\nResearch Grant, XYZ Foundation (2023)"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Contact\n\nEmail: your.email@university.edu\nOffice: Room 123, University of X\nTwitter: @yourhandle\nLinkedIn: Your Profile"
-  },
-  {
-    "objectID": "pages/papers.html",
-    "href": "pages/papers.html",
-    "title": "Publications",
-    "section": "",
-    "text": "A Brief Comparative Analysis of Geostatistics and Deep Learning for Seismic Data Interpolation\n\nAuthors: Julien Lalanne, Lionnel Boillot and Leon Barens\nJournal/Conference: 86th EAGE Annual Conference & Exhibition\n2025\nLink: EarthDoc\n\nSemantic frame aggregation-based Transformer for live video comment generation\n\nAuthors: Anam Fatima, Yi Yu, Janak Kapuriya, Julien Lalanne and Jainendra Shukla\nJournal/Conference: IEEE Transactions on Multimedia\n2025 \n\nMachine Learning Method Benchmark for Shear Velocity Estimation from Geotechnical Logs\n\nAuthors: Julien Lalanne, Lionnel Boillot and Leon Barens\nJournal/Conference: Fourth EAGE Digitalization Conference & Exhibition\n2024\nLink: EarthDoc\n\nLiveChat: Video Comment Generation from Audio-Visual Multimodal Contexts\n\nAuthors: Julien Lalanne, Raphael Bournet and Yi Yu\nJournal/Conference: arXiv preprint\n2023"
-  },
-  {
     "objectID": "pages/contact.html",
     "href": "pages/contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Email: julien.lalanne@enpc.fr\nEmail: julien.lalanne@totalenergies.com\nLinkedIn: link"
-  },
-  {
-    "objectID": "pages/teaching.html",
-    "href": "pages/teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Teaching\nList your teaching activities, courses, or mentoring here. Example:\n\nCourse: Machine Learning (University of X, 2024)\nWorkshop: Data Science Bootcamp (2023)"
-  },
-  {
-    "objectID": "pages/about.html",
-    "href": "pages/about.html",
-    "title": "Julien Lalanne",
-    "section": "",
-    "text": "title: “About”\nAbout this site # About Me"
-  },
-  {
-    "objectID": "pages/about.html#biography",
-    "href": "pages/about.html#biography",
-    "title": "Julien Lalanne",
-    "section": "Biography",
-    "text": "Biography\nJulien Lalanne received his PhD in Computer Science from University of X. He has published over 20 papers in top conferences and journals. His research interests include deep learning, data science, and AI applications in healthcare. Add your detailed biography here."
-  },
-  {
-    "objectID": "pages/about.html#research-interests",
-    "href": "pages/about.html#research-interests",
-    "title": "Julien Lalanne",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nDeep Learning\nData Science\nAI for Healthcare\nComputer Vision\nScientific Communication"
-  },
-  {
-    "objectID": "pages/about.html#profile-picture",
-    "href": "pages/about.html#profile-picture",
-    "title": "Julien Lalanne",
-    "section": "Profile Picture",
-    "text": "Profile Picture\n\n\n\nProfile Picture"
-  },
-  {
-    "objectID": "pages/about.html#contact-information",
-    "href": "pages/about.html#contact-information",
-    "title": "Julien Lalanne",
-    "section": "Contact Information",
-    "text": "Contact Information\n\nEmail: your.email@university.edu\nOffice: Room 123, University of X\nTwitter: @yourhandle\nLinkedIn: Your Profile"
-  },
-  {
-    "objectID": "pages/about.html#social-links",
-    "href": "pages/about.html#social-links",
-    "title": "Julien Lalanne",
-    "section": "Social Links",
-    "text": "Social Links\n\nGoogle Scholar\nORCID\nGitHub"
-  },
-  {
-    "objectID": "pages/education.html",
-    "href": "pages/education.html",
-    "title": "Education",
-    "section": "",
-    "text": "Education"
+    "text": "Email: julien.lalanne@enpc.fr\nEmail: julien.lalanne@totalenergies.fr\nLinkedIn: link"
   }
 ]

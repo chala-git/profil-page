@@ -1,6 +1,6 @@
 project:
   type: website
-
+  output-dir: profil-page
 website:
   title: "Julien Lalanne"
   navbar:

@@ -17,10 +17,21 @@ about:
         url: https://github.com/chala-git/
 image: figures/profile.jpg
 comments: false
+css: styles.css
 ---
 
 :::{#template-heading}
+
+---
+
+#### PhD Student in Generative Modelling{.center}
+
+##### Ecole Nationale des Ponts et Chaussées{.center}
+
+##### TotalEnergies{.center}
+
 :::
+
 ## Bio
 
 Lorem markdownum possis in considere eloquioque modo paulatimque, tum et ubi
