@@ -34,7 +34,7 @@ css: styles.css
 
 ## Bio
 
-Lorem markdownum possis in considere eloquioque modo paulatimque, tum et ubi
+BONJOUR Lorem markdownum possis in considere eloquioque modo paulatimque, tum et ubi
 fictilibus intabescere ingeminat ritus inania. **Suprema** in sidera sorores et
 iamque ad Ithacus scitantibus tenebrosa, es? Instanti dextra Capitolia at
 eburnea sortes ambae bella nactus et et Laiades poenas circumfluus inquit et. O
