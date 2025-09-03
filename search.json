@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "pages/education.html",
+    "href": "pages/education.html",
+    "title": "Education",
+    "section": "",
+    "text": "TODO"
+  },
+  {
+    "objectID": "pages/papers.html",
+    "href": "pages/papers.html",
+    "title": "Publications",
+    "section": "",
+    "text": "A Brief Comparative Analysis of Geostatistics and Deep Learning for Seismic Data Interpolation\n\nAuthors: Julien Lalanne, Lionnel Boillot and Leon Barens\nJournal/Conference: 86th EAGE Annual Conference & Exhibition\n2025\nLink: EarthDoc\n\nSemantic frame aggregation-based Transformer for live video comment generation\n\nAuthors: Anam Fatima, Yi Yu, Janak Kapuriya, Julien Lalanne and Jainendra Shukla\nJournal/Conference: IEEE Transactions on Multimedia\n2025 \n\nMachine Learning Method Benchmark for Shear Velocity Estimation from Geotechnical Logs\n\nAuthors: Julien Lalanne, Lionnel Boillot and Leon Barens\nJournal/Conference: Fourth EAGE Digitalization Conference & Exhibition\n2024\nLink: EarthDoc\n\nLiveChat: Video Comment Generation from Audio-Visual Multimodal Contexts\n\nAuthors: Julien Lalanne, Raphael Bournet and Yi Yu\nJournal/Conference: arXiv preprint\n2023"
+  },
+  {
+    "objectID": "pages/teaching.html",
+    "href": "pages/teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Teaching\nList your teaching activities, courses, or mentoring here. Example:\n\nCourse: Machine Learning (University of X, 2024)\nWorkshop: Data Science Bootcamp (2023)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Julien Lalanne",
+    "section": "",
+    "text": "Linkedin\n  \n  \n    \n     Google Scholar\n  \n  \n      Email\n  \n  \n    \n     Github"
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Julien Lalanne",
+    "section": "Bio",
+    "text": "Bio\nTODO"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Julien Lalanne",
+    "section": "Research Interests",
+    "text": "Research Interests\nTODO"
+  },
+  {
+    "objectID": "pages/contact.html",
+    "href": "pages/contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: julien.lalanne@enpc.fr\nEmail: julien.lalanne@totalenergies.fr\nLinkedIn: link"
+  },
+  {
+    "objectID": "pages/news.html",
+    "href": "pages/news.html",
+    "title": "News",
+    "section": "",
+    "text": "TODO"
+  }
+]
