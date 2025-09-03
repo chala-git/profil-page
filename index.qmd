@@ -18,6 +18,8 @@ about:
 image: figures/profile.jpg
 comments: false
 css: styles.css
+linkcolor: black
+
 ---
 
 :::{#template-heading}
@@ -26,13 +28,13 @@ css: styles.css
 
 #### PhD Student in Generative Modelling{.center}
 
-##### Laboratoire Navier{.center}
+##### [Laboratoire Navier](https://navier-lab.fr/){.center .href}
 
-##### TotalEnergies{.center}
+##### [TotalEnergies](https://totalenergies.com/){.center .href}
 
-##### École Nationale des Ponts et Chaussées{.center}
+##### [École Nationale des Ponts et Chaussées](https://ecoledesponts.fr/){.center .href}
 
-##### Institut Polytechnique de Paris{.center}
+##### [Institut Polytechnique de Paris](https://www.ip-paris.fr/){.center .href}
 
 :::
 
