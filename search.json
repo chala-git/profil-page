@@ -32,14 +32,14 @@
     "href": "index.html#bio",
     "title": "Julien Lalanne",
     "section": "Bio",
-    "text": "Bio\nTODO"
+    "text": "Bio\nI am a 1st year PhD candidate at École des Ponts et Chaussées and TotalEnergies, working at the intersection of generative modeling and geosciences under the supervision of Jean-Michel Pereira, Lina Guayacan, David Picard, Leon Barens and Lionel Boillot. My research focuses on stochastic interpolation techniques for subsurface data, with applications in soil characterization for offshore wind farms.\nPrior to my PhD, I worked as a research engineer at TotalEnergies, where I developed machine learning methods for seismic and well log data analysis and defined my PhD project.\nI hold a Master in Applied Mathematics from Université Grenoble Alpes and an engineering degree from Grenoble INP – Ensimag, with a focus in machine learning, statistical modeling, and optimization. My academic journey also includes a research internship at the National Institute of Informatics in Tokyo, where I explored multimodal context analysis for live video comment generation."
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "Julien Lalanne",
     "section": "Research Interests",
-    "text": "Research Interests\nTODO"
+    "text": "Research Interests\nMy research interests lie at the intersection of generative modeling, Bayesian inference, and applied machine learning, with a particular focus on geoscientific data analysis and multimodal learning for real-world applications.\n\nGenerative Modeling: Probabilistic and deep generative models for spatial data synthesis and interpolation.\nBayesian Methods: Uncertainty quantification and probabilistic inference in geoscientific applications.\nGeostatistics: Machine learning approaches for seismic and geotechnical data interpretation."
   },
   {
     "objectID": "pages/papers.html",
