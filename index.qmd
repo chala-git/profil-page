@@ -32,6 +32,8 @@ css: styles.css
 
 ##### École Nationale des Ponts et Chaussées{.center}
 
+##### Institut Polytechnique de Paris{.center}
+
 :::
 
 ## Bio
