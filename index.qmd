@@ -26,9 +26,11 @@ css: styles.css
 
 #### PhD Student in Generative Modelling{.center}
 
-##### Ecole Nationale des Ponts et Chaussées - Laboratoire Navier{.center}
+##### Laboratoire Navier{.center}
 
 ##### TotalEnergies{.center}
+
+##### École Nationale des Ponts et Chaussées{.center}
 
 :::
 
