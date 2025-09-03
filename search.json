@@ -39,7 +39,7 @@
     "href": "index.html#research-interests",
     "title": "Julien Lalanne",
     "section": "Research Interests",
-    "text": "Research Interests\nMy research interests lie at the intersection of generative modeling, Bayesian inference, geostatistics, with a particular focus on subsurface data analysis for real-world applications.\n\nGenerative Modeling: Probabilistic and deep generative models for spatial data synthesis and interpolation.\nBayesian Methods: Uncertainty quantification and probabilistic inference in geoscientific applications.\nGeostatistics: Machine learning approaches for seismic and geotechnical data interpretation."
+    "text": "Research Interests\nMy research interests lie at the intersection of generative modeling, Bayesian inference and geostatistics, with a particular focus on subsurface data analysis for real-world applications.\n\nGenerative Modeling: Probabilistic and deep generative models for spatial data synthesis and interpolation.\nBayesian Methods: Uncertainty quantification and probabilistic inference in geoscientific applications.\nGeostatistics: Machine learning approaches for seismic and geotechnical data interpretation."
   },
   {
     "objectID": "pages/papers.html",
