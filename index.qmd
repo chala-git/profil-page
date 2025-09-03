@@ -34,38 +34,10 @@ css: styles.css
 
 ## Bio
 
-BONJOUR Lorem markdownum possis in considere eloquioque modo paulatimque, tum et ubi
-fictilibus intabescere ingeminat ritus inania. **Suprema** in sidera sorores et
-iamque ad Ithacus scitantibus tenebrosa, es? Instanti dextra Capitolia at
-eburnea sortes ambae bella nactus et et Laiades poenas circumfluus inquit et. O
-petita inpulit equam cecinisse iuvenes, sequendi coniuge adiutus, tune! Vocis
-meae Troes quanto tollit quasque saltem serpentum in praebentque maior.
-
-Monstri **facti**. Opaca in vim veli `halftone_lifo` seductas figuram nescit
-cucurri, et visa: incursu. In pars hospes fratremque propiore sors *incenduntque
-vimina*, Ocyroen [indicat aut](#non-factas-natus-remanet) aliquos cogis, quae
-tabo caesariem et amnes? Latus [quidem tremit](#metuitque-fronde-inmota-mea) si
-quatit demisi trahens aerii inplumes dis corpora origine communia est votis ait
-unca nam volumina florem? Utque ambrosiam precanda quoque vacca nulla ignesque
-sine, cum et ordine tamen; una vident est arsit requies umeris!
-
-Lenire succedere templisque miseri boum materna nato aer fortes, hac ense
-Pelasgae. Crimenque ipse. Quas fallor gentis, et medius miser inmoritur redde,
-et. [Haesit](#postquam-ire-vulcania-fatum) quoque, vertit volucrem plectrumque
-`isa` licet duro tergo respicit, novo docuit novissima silvas inque.
+TODO
 
 
 ## Research Interests
 
-Et tumulum cernes dixerat gaudia. Hoc deos praescia ureris genitor erat *dum*
-dum manibus inerti. Recenti si Romana, abit mandata: imitamine lintea iure.
-Geminas adhuc supplex excusantia torum ab adfectas, tu iste, ipsa ignare, vires
-generis post flagrant.
-
-- Quod est bitumine dicta dum Psophidaque moenia
-- Decrescentibus corpora ferrumque rostro thalamoque amnis
-- Maiaque profuso
-- Redit et tamen manus cui Tenedon sonantia
-- Volat usque ducibusque lapidem Hyries et pereat
-- Ipsa fronte
+TODO
 
