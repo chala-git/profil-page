@@ -1,0 +1,22 @@
+---
+title: "Curriculum"
+---
+
+- **April 2025 - Present : PhD Candidate, École Nationale des Ponts et Chaussées & TotalEnergies** 
+  - *Topic*: Generative modeling for Bayesian interpolation of subsurface data, applied to soil characterization for offshore wind farms.
+
+- **November 2023 - March 2025 : Research Engineer, TotalEnergies** 
+  - *Topic*: Machine learning methods for the representation of seismic and well log data in the context of offshore wind farm soil characterization
+
+- **February 2023-August 2023 : Research Intern, National Institute of Informatics, Tokyo** 
+  - *Topic*: Live Comments generation by exploiting audio-visual contexts.
+
+- **2022 – 2023: Master of Science in Industrial and Applied Mathematics, Université Grenoble Alpes**  
+  - *Majors*: Machine Learning, Kernel Methods, Statistical Learning, Deep Learning, Optimization
+
+- **2020 – 2023: Engineering Degree, Grenoble INP – Ensimag**  
+  - *Majors*: Machine Learning, Bayesian Statistics, Functional Analysis, 3D Graphics, Image Analysis, Operations Research
+
+- **2018 – 2020: CPGE MPSI/MP, Lycée Michel de Montaigne, Bordeaux**  
+  - *Focus*: Mathematics, Physics, Computer Science
+

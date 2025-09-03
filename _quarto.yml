@@ -11,8 +11,8 @@ website:
         text: Publications
       - href: pages/news.qmd
         text: News
-      - href: pages/education.qmd
-        text: Education
+      - href: pages/curriculum.qmd
+        text: Curriculum
       # - href: pages/teaching.qmd
       #   text: Teaching
       - href: pages/contact.qmd
