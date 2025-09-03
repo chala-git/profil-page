@@ -2,4 +2,4 @@
 title: "News"
 ---
 
-TODO
+The News are that I need TODO the news tab.
