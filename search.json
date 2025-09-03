@@ -1,24 +1,24 @@
 [
   {
-    "objectID": "pages/contact.html",
-    "href": "pages/contact.html",
-    "title": "Contact",
+    "objectID": "pages/curriculum.html",
+    "href": "pages/curriculum.html",
+    "title": "Curriculum",
     "section": "",
-    "text": "Email: julien.lalanne@enpc.fr\nEmail: julien.lalanne@totalenergies.fr\nLinkedIn: link"
+    "text": "April 2025 - Present : PhD Candidate, École Nationale des Ponts et Chaussées & TotalEnergies\n\nTopic: Generative modeling for Bayesian interpolation of subsurface data, applied to soil characterization for offshore wind farms.\n\nNovember 2023 - March 2025 : Research Engineer, TotalEnergies\n\nTopic: Machine learning methods for the representation of seismic and well log data in the context of offshore wind farm soil characterization\n\nFebruary 2023-August 2023 : Research Intern, National Institute of Informatics, Tokyo\n\nTopic: Live Comments generation by exploiting audio-visual contexts.\n\n2022 – 2023: Master of Science in Industrial and Applied Mathematics, Université Grenoble Alpes\n\nMajors: Machine Learning, Kernel Methods, Statistical Learning, Deep Learning, Optimization\n\n2020 – 2023: Engineering Degree, Grenoble INP – Ensimag\n\nMajors: Machine Learning, Bayesian Statistics, Functional Analysis, 3D Graphics, Image Analysis, Operations Research\n\n2018 – 2020: CPGE MPSI/MP, Lycée Michel de Montaigne, Bordeaux\n\nFocus: Mathematics, Physics, Computer Science"
   },
   {
-    "objectID": "pages/papers.html",
-    "href": "pages/papers.html",
-    "title": "Publications",
+    "objectID": "pages/teaching.html",
+    "href": "pages/teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "A Brief Comparative Analysis of Geostatistics and Deep Learning for Seismic Data Interpolation\n\nAuthors: Julien Lalanne, Lionnel Boillot and Leon Barens\nJournal/Conference: 86th EAGE Annual Conference & Exhibition\n2025\nLink: EarthDoc\n\nSemantic frame aggregation-based Transformer for live video comment generation\n\nAuthors: Anam Fatima, Yi Yu, Janak Kapuriya, Julien Lalanne and Jainendra Shukla\nJournal/Conference: IEEE Transactions on Multimedia\n2025 \n\nMachine Learning Method Benchmark for Shear Velocity Estimation from Geotechnical Logs\n\nAuthors: Julien Lalanne, Lionnel Boillot and Leon Barens\nJournal/Conference: Fourth EAGE Digitalization Conference & Exhibition\n2024\nLink: EarthDoc\n\nLiveChat: Video Comment Generation from Audio-Visual Multimodal Contexts\n\nAuthors: Julien Lalanne, Raphael Bournet and Yi Yu\nJournal/Conference: arXiv preprint\n2023"
+    "text": "Teaching\nList your teaching activities, courses, or mentoring here. Example:\n\nCourse: Machine Learning (University of X, 2024)\nWorkshop: Data Science Bootcamp (2023)"
   },
   {
-    "objectID": "pages/education.html",
-    "href": "pages/education.html",
-    "title": "Education",
+    "objectID": "pages/news.html",
+    "href": "pages/news.html",
+    "title": "News",
     "section": "",
-    "text": "TODO"
+    "text": "The News are that I need TODO the news tab."
   },
   {
     "objectID": "index.html",
@@ -42,17 +42,17 @@
     "text": "Research Interests\nTODO"
   },
   {
-    "objectID": "pages/news.html",
-    "href": "pages/news.html",
-    "title": "News",
+    "objectID": "pages/papers.html",
+    "href": "pages/papers.html",
+    "title": "Publications",
     "section": "",
-    "text": "The News are that I need TODO the news tab."
+    "text": "A Brief Comparative Analysis of Geostatistics and Deep Learning for Seismic Data Interpolation\n\nAuthors: Julien Lalanne, Lionnel Boillot and Leon Barens\nJournal/Conference: 86th EAGE Annual Conference & Exhibition\n2025\nLink: EarthDoc\n\nSemantic frame aggregation-based Transformer for live video comment generation\n\nAuthors: Anam Fatima, Yi Yu, Janak Kapuriya, Julien Lalanne and Jainendra Shukla\nJournal/Conference: IEEE Transactions on Multimedia\n2025 \n\nMachine Learning Method Benchmark for Shear Velocity Estimation from Geotechnical Logs\n\nAuthors: Julien Lalanne, Lionnel Boillot and Leon Barens\nJournal/Conference: Fourth EAGE Digitalization Conference & Exhibition\n2024\nLink: EarthDoc\n\nLiveChat: Video Comment Generation from Audio-Visual Multimodal Contexts\n\nAuthors: Julien Lalanne, Raphael Bournet and Yi Yu\nJournal/Conference: arXiv preprint\n2023"
   },
   {
-    "objectID": "pages/teaching.html",
-    "href": "pages/teaching.html",
-    "title": "Teaching",
+    "objectID": "pages/contact.html",
+    "href": "pages/contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "Teaching\nList your teaching activities, courses, or mentoring here. Example:\n\nCourse: Machine Learning (University of X, 2024)\nWorkshop: Data Science Bootcamp (2023)"
+    "text": "Email: julien.lalanne@enpc.fr\nEmail: julien.lalanne@totalenergies.fr\nLinkedIn: link"
   }
 ]
