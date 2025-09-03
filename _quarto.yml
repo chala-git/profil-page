@@ -9,8 +9,8 @@ website:
         text: Home
       - href: pages/papers.qmd
         text: Publications
-      - href: pages/news.qmd
-        text: News
+      # - href: pages/news.qmd
+      #   text: News
       - href: pages/curriculum.qmd
         text: Curriculum
       # - href: pages/teaching.qmd
