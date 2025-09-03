@@ -1,3 +1,10 @@
 .center {
   text-align: center;
 }
+.href {
+  color: rgb(100, 100, 100); /* optional, to keep the same color as surrounding text */
+  text-decoration: none;
+}
+.href:hover {
+  text-decoration: underline; /* optional, only show underline on hover */
+}
